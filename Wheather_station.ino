@@ -7,8 +7,8 @@
 
 LiquidCrystal lcd(D6, D5, D1, D2, D3, D4); 
  
-const char* ssid     ="tp-link"; 
-const char* password = "hetman9399"; 
+const char* ssid     =" "; //Wi-Fi name
+const char* password = " "; //Wi-Fi password
 
 int buttonPushCounter = 0;   
 int buttonState = 0;         
