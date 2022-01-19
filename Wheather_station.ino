@@ -26,7 +26,7 @@ int year_;
 int ledPin = 2; 
 int failed=0;
 WiFiServer server(80);
-char serverAddress[] = "192.168.1.107";  // server address
+char serverAddress[] = " ";  // server address
 int port = 80;
 
 
